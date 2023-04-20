@@ -2,7 +2,7 @@
 use Meld to compare two files/folders via shell menu in microsoft windows.
 # How to use
 * install meld for windows from https://meld.app/.
-* assume that you already installed in C:\Program Files\Meld.
+* assume that you have already installed Meld in C:\Program Files\Meld.
 * build MeldHelper.
 * copy MeldHelper.exe to C:\Program Files\Meld.
 * install shell context menu.
